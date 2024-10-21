@@ -1,2 +1,2 @@
 # calc_new
-New Calculator
+LOI Javascript Opdracht 1
